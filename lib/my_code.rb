@@ -14,6 +14,6 @@ def reduce(source_array, starting_value = 0)
   if starting_value
     value = starting_value
   else 
-    
+    value = 
   
 end
