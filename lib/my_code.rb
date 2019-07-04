@@ -15,6 +15,6 @@ def reduce(source_array, starting_value = 0)
     value = starting_value
   else 
     value = source_array[0]
-    
+    i = 1
   
 end
