@@ -10,7 +10,9 @@ def map(source_array)
   new
 end
 
-def reduce(source_array, starting_value)
+def reduce(source_array, starting_value = 0)
   if starting_value
-    
+    value = starting_value
+  end
+  
 end
